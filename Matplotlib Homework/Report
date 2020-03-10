@@ -1,0 +1,14 @@
+•	After carefully analyzing the different drugs as well as the effect they have on the tumor size,
+it was clear to see in specific how the Capomulin drug had one of the most impacts. It was the
+drug with more regular used and had a positive impact in regards to decreasing the size of the tumors. For example, 
+on average Capomulin was effective in decreasing the tumor volume (size) from 45mm t0 36.2mm.
+
+•	We are able to see in the linear regresion model the correlation betweeen the mouse weight versus the 
+average tumor volume for the Capomulin drug. We are able to see the positive relationship between the weight and 
+the tumor (size). In other words, we are able to conclude that as the weight of the mouse increased the tumor volume (size)
+increased as well. 
+
+•	I also concluded that the Capomulin drug had a significant impact on certain mouses. For example, I took mouse l509 and creted a 
+line plot with the data I gather from the csv files. I was able to compare the tumor volume (size) of specifically mouse l509 to
+the change after receiving the Capomulin drug. After plotting the information we are able to see that within 35 days of treatment
+the tumor size had decreased by more than 10%. 
